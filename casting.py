@@ -1,0 +1,11 @@
+print("enter your name: ")
+m=str(input())
+print("enter your age: ")
+n=int(input())
+print("your name is",m)
+print("your age is",n)
+a=str(n)
+print(a,type(a))
+b=float(input("enter a rational number: "))
+print(b,type(b))
+# casting is the process of converting one type of datatype into another type
